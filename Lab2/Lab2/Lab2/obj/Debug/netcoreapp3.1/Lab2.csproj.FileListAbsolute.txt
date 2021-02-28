@@ -1,0 +1,13 @@
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
