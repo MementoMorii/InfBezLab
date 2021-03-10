@@ -54,20 +54,6 @@ namespace Lab2
 
                         for (int i = 0; i < 9; i++)
                         {
-                            if (!flag1 && !flag2)
-                            {
-                                int indCod = (indOfWord + indOfKey) % 72;
-                                int iCod = indCod / 9;
-                                int jCod = indCod % 8;
-
-                                if (jCod == 0)
-                                    jCod = 7;                                
-                                else
-                                    jCod--;
-
-                                code[m] = str[iCod, jCod].ToString();
-                                break;
-                            }
 
                             for (int j = 0; j < 8; j++)
                             {
@@ -82,7 +68,20 @@ namespace Lab2
                                     indOfKey = i * 8 + j + 1;
                                     flag2 = false;
                                 }
- 
+
+                                if (!flag1 && !flag2)
+                                    break;
+                            }
+
+                            if (!flag1 && !flag2)
+                            {
+                                int indCod = (indOfWord + indOfKey) % 72;
+                                indCod -= 1;
+                                int iCod = indCod / 8;
+                                int jCod = indCod % 8;
+
+                                code[m] = str[iCod, jCod].ToString();
+                                break;
                             }
                         }
 
@@ -140,23 +139,7 @@ namespace Lab2
 
                         for (int i = 0; i < 9; i++)
                         {
-                            if (!flag1 && !flag2)
-                            {
-                                int indOfInput = indOfCode - indOfKey;
-                                if (indOfInput <= 0)
-                                {
-                                    indOfInput += 72;
-                                }
-                                int iInp = indOfInput / 9;
-                                int jInp = indOfInput % 8;
-
-                                if (jInp == 0)
-                                    jInp = 7;
-                                else
-                                    jInp--;
-                                output[m] = str[iInp, jInp].ToString();
-                                break;
-                            }
+                           
 
                             for (int j = 0; j < 8; j++)
                             {
@@ -171,7 +154,24 @@ namespace Lab2
                                     indOfKey = i * 8 + j + 1;
                                     flag2 = false;
                                 }
+                                if (!flag1 && !flag2)
+                                    break;
 
+                            }
+
+                            if (!flag1 && !flag2)
+                            {
+                                int indOfInput = indOfCode - indOfKey;
+                                if (indOfInput <= 0)
+                                {
+                                    indOfInput += 72;
+                                }
+                                indOfInput = indOfInput - 1;
+                                int iInp = indOfInput / 8;
+                                int jInp = indOfInput % 8;
+
+                                output[m] = str[iInp, jInp].ToString();
+                                break;
                             }
                         }
 
@@ -199,7 +199,7 @@ namespace Lab2
                             Console.Write(output[i]);
                         }
                         Console.WriteLine();
-                    }   
+                    }    
                 }
 
                 Console.WriteLine("Зашифровать строку введите 1");
