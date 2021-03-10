@@ -51,7 +51,7 @@ while (run != '0'):
         code = input()
         codeSPL = code.split(' ')
         codeNP = np.reshape(np.array(codeSPL), (len(codeSPL)//3, 3))
-        print(codeNP)
+
         inpCod = []
         keyOb = np.linalg.inv(key)
         for i in range(len(codeSPL) // 3):
@@ -60,7 +60,7 @@ while (run != '0'):
         print('Исходный текст:')
         for i in inpCodVek[0]:
             print(str[i-1], end = "")
-        print(2)
+    print()
 
 
     print('Зашифровать строку введите 1')
