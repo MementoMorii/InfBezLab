@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9WRbwAsqOs+lwwUPobXAMlXSDtX8vGl7bY5RvdWeeHKX1KVRPGQu+UkbgqatJcT1JjjHJ0JJvznKWvzDaS83g==",
+  "success": true,
+  "projectFilePath": "C:\\фото\\гитарист\\ИНформационная безопасность\\GitHub\\InfBezLab\\Lab4\\lab4RSA\\lab4RSA\\lab4RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

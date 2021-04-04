@@ -1,0 +1,13 @@
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\bin\Debug\netcoreapp3.1\lab4RSA.exe
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\bin\Debug\netcoreapp3.1\lab4RSA.deps.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\bin\Debug\netcoreapp3.1\lab4RSA.runtimeconfig.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\bin\Debug\netcoreapp3.1\lab4RSA.runtimeconfig.dev.json
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\bin\Debug\netcoreapp3.1\lab4RSA.dll
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\bin\Debug\netcoreapp3.1\lab4RSA.pdb
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.csprojAssemblyReference.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.AssemblyInfoInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.AssemblyInfo.cs
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.csproj.CoreCompileInputs.cache
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.dll
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.pdb
+C:\фото\гитарист\ИНформационная безопасность\GitHub\InfBezLab\Lab4\lab4RSA\lab4RSA\obj\Debug\netcoreapp3.1\lab4RSA.genruntimeconfig.cache
